@@ -1,5 +1,3 @@
-Aqui está um modelo de `README.md` para o seu projeto no Vercel. Você pode personalizar conforme necessário.
-
 ```markdown
 # Port Teste
 
