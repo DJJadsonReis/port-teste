@@ -1,8 +1,6 @@
 ```markdown
 # Port Teste
 
-![Port Teste Logo](link-para-sua-logo.png)
-
 ## Descrição
 
 Port Teste é um projeto desenvolvido para demonstrar as funcionalidades e capacidades do portfólio online. O site é otimizado para proporcionar uma experiência de usuário agradável e fácil navegação, apresentando projetos, habilidades e informações relevantes.
